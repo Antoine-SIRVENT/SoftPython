@@ -1,0 +1,7 @@
+praw
+xmltodict
+numpy
+scipy
+scikit-learn
+nltk
+customtkinter
